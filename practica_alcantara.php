@@ -2,7 +2,7 @@
 /**
  * Ejemplo, phpDocumentor Jesus Daniel Alcantara Montes
  * IES Aguadulce curso 21/22 
- * 
+ * Este es un fichero que se va modificar para la tarea 5 de Despliegue de Aplicaciones Web
  * Este archivo muestra el uso de la etiqueta @name 
  * @author Jesus Daniel Alcantara Montes
  * @version 1.0
